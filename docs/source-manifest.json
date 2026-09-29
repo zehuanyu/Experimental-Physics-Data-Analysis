@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "blackbody-radiation",
+    "title": "Blackbody Radiation",
+    "source_folder": "ex2",
+    "source_report": "ex2/lab report 2.docx",
+    "source_analysis": "ex2/experiment 2.xlsx",
+    "figures_extracted": 8,
+    "raw_data": [
+      "blackbody-radiation\\data\\radiated_power_data.txt",
+      "blackbody-radiation\\data\\spectral_intensity_550nm.txt",
+      "blackbody-radiation\\data\\spectral_intensity_750nm.txt",
+      "blackbody-radiation\\data\\spectral_intensity_950nm.txt",
+      "blackbody-radiation\\data\\spectral_intensity_950nm_take2.txt"
+    ]
+  },
+  {
+    "slug": "photoelectric-effect",
+    "title": "Photoelectric Effect",
+    "source_folder": "ex3",
+    "source_report": "ex3/lab report 3.docx",
+    "source_analysis": "ex3/X3_data_worksheet.xlsx",
+    "figures_extracted": 9,
+    "raw_data": []
+  },
+  {
+    "slug": "electron-diffraction",
+    "title": "Electron Diffraction and Crystal Structure",
+    "source_folder": "ex5",
+    "source_report": "ex5/Physics 391 Experiment 5.docx",
+    "source_analysis": "ex5/ex5.xlsx",
+    "figures_extracted": 4,
+    "raw_data": []
+  },
+  {
+    "slug": "hydrogen-deuterium-spectroscopy",
+    "title": "Hydrogen/Deuterium Spectroscopy",
+    "source_folder": "ex6",
+    "source_report": "ex6/Physics 391 Experiment 6.docx",
+    "source_analysis": "ex6/ex6.xlsx",
+    "figures_extracted": 2,
+    "raw_data": []
+  },
+  {
+    "slug": "hall-effect-semiconductors",
+    "title": "Hall Effect and Semiconductor Conductivity",
+    "source_folder": "ex10",
+    "source_report": "ex10/Physics 391 Experiment 10.docx",
+    "source_analysis": "ex10/experiment 10.xlsx",
+    "figures_extracted": 3,
+    "raw_data": []
+  },
+  {
+    "slug": "high-temperature-superconductivity",
+    "title": "High-Temperature Superconductivity",
+    "source_folder": "ex11",
+    "source_report": "ex11/Physics 391 Experiment 11.docx",
+    "source_analysis": "ex11/ex11.xlsx",
+    "figures_extracted": 1,
+    "raw_data": []
+  },
+  {
+    "slug": "radioactivity",
+    "title": "Radioactivity",
+    "source_folder": "ex12",
+    "source_report": "ex12/Physics 391 Experiment 12.docx",
+    "source_analysis": "ex12/ex12.xlsx",
+    "figures_extracted": 3,
+    "raw_data": []
+  }
+]
